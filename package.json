@@ -1,0 +1,18 @@
+{
+  "name": "mill",
+  "version": "0.0.1",
+  "description": "Parses rsyslog messages and stores them in CouchDB",
+  "main": "index.js",
+  "dependencies": {
+    "bunyan": "~0.14.5",
+    "cradle": "~0.6.4"
+  },
+  "devDependencies": {},
+  "repository": "",
+  "keywords": [
+    "rsyslog",
+    "couchdb"
+  ],
+  "author": "Shaun Harding <shaun@socialengine.com",
+  "license": "BSD"
+}
